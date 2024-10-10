@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-leodido-go-urn (1.2.1-3) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-leodido-go-urn-dev: Add Multi-Arch: foreign.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 26 Nov 2022 03:06:33 +0000
+
+golang-github-leodido-go-urn (1.2.1-2) unstable; urgency=medium
+
+  * Source-only upload for testing eligibility.
+
+ -- Cyril Brulebois <cyril@debamax.com>  Thu, 07 Jan 2021 14:03:37 +0000
+
+golang-github-leodido-go-urn (1.2.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #978121).
+
+ -- Cyril Brulebois <cyril@debamax.com>  Sat, 26 Dec 2020 08:29:11 +0000
